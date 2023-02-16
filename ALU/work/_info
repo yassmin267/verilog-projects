@@ -1,0 +1,139 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/C2D/Desktop/test
+T_opt
+!s110 1675901673
+VQVYDdC?ONjKo6gBFTXRcV0
+04 6 4 work tb_alu fast 0
+=1-98e7f43137f4-63e43ae9-16c-21c4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+valu
+Z2 !s110 1675901659
+!i10b 1
+!s100 KmB9A`eQmeIB9g^^N1>l@1
+IUIcmOca^:o2];:nNSknKm2
+Z3 dC:/Users/C2D/Desktop/course/tasks/s1/t5
+w1675901148
+8C:/Users/C2D/Desktop/course/tasks/s1/t5/alu.v
+FC:/Users/C2D/Desktop/course/tasks/s1/t5/alu.v
+!i122 36
+Z4 L0 1 18
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1675901659.000000
+!s107 C:/Users/C2D/Desktop/course/tasks/s1/t5/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/C2D/Desktop/course/tasks/s1/t5/alu.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vfull_adder
+R2
+!i10b 1
+!s100 WEC@:mA_Y13la]A2<jLDB0
+IenI5J0>KOAaES>nc^EM4l3
+R3
+Z9 w1675901150
+Z10 8C:/Users/C2D/Desktop/course/tasks/s1/t5/N_bit_adder.v
+Z11 FC:/Users/C2D/Desktop/course/tasks/s1/t5/N_bit_adder.v
+!i122 38
+L0 30 6
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 C:/Users/C2D/Desktop/course/tasks/s1/t5/N_bit_adder.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/C2D/Desktop/course/tasks/s1/t5/N_bit_adder.v|
+!i113 0
+R8
+R1
+vhalf_adder
+R2
+!i10b 1
+!s100 ITgNEInGT<=znPAb8Z[8J3
+I2OJi0j12=JnnaXN6ZB7Ei1
+R3
+R9
+R10
+R11
+!i122 38
+L0 22 6
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R8
+R1
+vN_bit_adder
+R2
+!i10b 1
+!s100 NQTWnB3RhlbI4k<^mdPK=1
+IzBB>21:X90_AdG<IGV[Dl3
+R3
+R9
+R10
+R11
+!i122 38
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R8
+R1
+n@n_bit_adder
+vtb_alu
+R2
+!i10b 1
+!s100 YLV>Szc]1<4hjjjbJEJDj1
+IgBggOJ`IV?U5hY`i<MYUh1
+R3
+w1675901638
+8C:/Users/C2D/Desktop/course/tasks/s1/t5/alu_tb.v
+FC:/Users/C2D/Desktop/course/tasks/s1/t5/alu_tb.v
+!i122 37
+L0 1 33
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/C2D/Desktop/course/tasks/s1/t5/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/C2D/Desktop/course/tasks/s1/t5/alu_tb.v|
+!i113 0
+R8
+R1
